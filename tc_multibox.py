@@ -6,6 +6,8 @@ Created on Tue Jun  8 09:01:58 2021
 @author: timw
 """
 
+#  Now with terrain support.
+
 # Here is where we transfer machine learning to python.  This script takes a
 # previously generated .mat file, and loads it up, does the basic QC like 
 # you'd expect it to be done before, and then uses tensorflow to turn that
